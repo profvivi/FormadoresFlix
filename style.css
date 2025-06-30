@@ -29,4 +29,5 @@ section {
 	background-color: #6d5f72;
 	padding-top: 80px ;
 	padding-bottom: 80px;
+	display: flex;
 }
