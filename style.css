@@ -52,7 +52,7 @@ img {
     height: 200px;
 }
 
-.categoria-videos {
+.outras-recomendacoes {
     display: flex;
     overflow-x: auto;
     gap: 20px;
